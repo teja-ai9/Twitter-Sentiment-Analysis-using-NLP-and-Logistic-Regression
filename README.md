@@ -1,0 +1,2 @@
+# Twitter-Sentiment-Analysis-using-NLP-and-Logistic-Regression
+The objective of the project was to detect hate speech in tweets by natural language processing. • Exploratory Data Analysis: Data Preprocessing and Data Wrangling, Story Generation and Visualization from Tweets, Feature Extraction. • Machine Learning Models: Logistic Regression using Bag-of-Words and TF-IDF. • Evaluation: F1 Score, Precision- Recall.
